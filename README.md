@@ -2,6 +2,7 @@
 Continuation of MovieLibararySystem-Phase 1 
 
 1. Introduction
+
 In this project you develop a software application for a community library to manage its 
 movie DVDs. In the development of this software application, you need to use some data 
 structures and algorithms that are covered in this unit to store, manage, and manipulate the 
@@ -36,6 +37,7 @@ implementation. It is important to point out that in this phase, you need to use
 Membercollection ADTs that you have implemented in Phase 1. 
 
 2. Detailed Tasks
+
 You are provided a skeleton of the Movie and MovieCollection ADT implementations. Your 
 jobs are to complete the following tasks:
 • Complete the implementation of the following methods in Movie.cs:
@@ -58,6 +60,7 @@ requirements, to check if the pre-condition(s) and post-condition(s) are satisfi
 
 
 3. Assignment Requirements
+
 • The programming language used in this assignment must be C#
 • You are not allowed to make any change to IMovie.cs or IMovieCollection.cs
 • You are allowed to add private methods to Movie.cs or MovieCollection.cs
