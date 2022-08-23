@@ -40,19 +40,33 @@ Membercollection ADTs that you have implemented in Phase 1.
 
 You are provided a skeleton of the Movie and MovieCollection ADT implementations. Your 
 jobs are to complete the following tasks:
+
 • Complete the implementation of the following methods in Movie.cs:
+
 o AddBorrower
+
 o RemoveBorrower
+
 o CompareTo
+
 o ToString
+
 • Complete the implementation of the following methods in MovieCollection.cs:
+
 o IsEmpty
+
 o Insert
+
 o Delete
+
 o Search by movie object
+
 o Search by movie title
+
 o ToArray
+
 o Clear
+
 • Use the most efficient algorithm to implement the methods, where applicable
 • Comprehensively test all your method implementations using a variety of test data, 
 including normal test values and boundary values, to make sure they meet the functional 
