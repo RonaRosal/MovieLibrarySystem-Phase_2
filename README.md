@@ -65,3 +65,8 @@ requirements, to check if the pre-condition(s) and post-condition(s) are satisfi
 • You are not allowed to make any change to IMovie.cs or IMovieCollection.cs
 • You are allowed to add private methods to Movie.cs or MovieCollection.cs
 • You are not allowed to add any namespace to Movie.cs or MovieCollection.c
+
+# What I learned 
+
+*
+*
